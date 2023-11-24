@@ -2,7 +2,7 @@ from pyresparser import ResumeParser
 import os
 from docx import Document
 
-filed="Michel Atieno Software Engineer Intern Curriculum Vitae.pdf"
+filed="CV.df"
 print(filed)
 try:
     doc = Document()
